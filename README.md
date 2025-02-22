@@ -1,2 +1,3 @@
 # Apnacollege-demo
-This is my second repo
+This is my demo repo 
+Author:Vishal kumar
