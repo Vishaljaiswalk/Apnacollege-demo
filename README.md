@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my demo repo 
 <br>
-Author:Vishal kumar
+Author:Vishal kumar Jaiswal
